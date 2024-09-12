@@ -1,8 +1,6 @@
-## Hi there 👋😊 I'm Mai Phuong Tuyen<br>Welcome to my GitHub! I'm currently searching for an entry-level position in data, and I'm excited to share my journey with you. I love exploring data, learning new things, and creating projects that help me grow as a data analyst.<br>Feel free to look around, and if you want to chat or collaborate, I'd love to connect!
-
-
+## Hi there 👋😊
 # 💫 About Me:
-
+I'm Mai Phuong Tuyen. Welcome to my GitHub! I'm currently searching for an entry-level position in data, and I'm excited to share my journey with you. I love exploring data, learning new things, and creating projects that help me grow as a data analyst.<br>Feel free to look around, and if you want to chat or collaborate, I'd love to connect!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mai-phuong-tuyen/) 
