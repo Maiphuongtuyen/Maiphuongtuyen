@@ -3,7 +3,7 @@
 Hey there! 😊 I'm Mai Phuong Tuyen<br>Welcome to my GitHub! I'm currently seeking for an entry-level position in data, and I'm excited to share my journey with you. I love exploring data, learning new things, and creating projects that help me grow as a data analyst.<br> If you're interested in seeing more detailed analysis, you can check out my portfolio website where I dive deeper into various data challenges. There, you'll find interactive Power BI dashboards you can explore and gain insights from. If you'd like to chat or collaborate, (●'◡'●) I'd love to connect!!!! **(^o^)** !!!
 
 # 🌐 My Portfolio Website: 
-### https://maiphuongtuyen.framer.website/
+### https://mptuyen.framer.website/
 
 # 📧 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mai-phuong-tuyen/) 
